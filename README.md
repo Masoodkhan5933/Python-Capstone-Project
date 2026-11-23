@@ -23,4 +23,3 @@ The authors' demo has been run on a Tesla T4 and produced a single-image predict
 
 Record the Git commit, Python/PyTorch/CUDA versions, GPU model, dataset split, config, checkpoint source, and command for each experiment. Do not commit dataset archives, model weights, credentials, or large generated files.
 
-**Acknowledgement:** ChatGPT assisted with proposal drafting and coding guidance. The implementation, experiments, results, and analysis will be checked and documented by the project author.
