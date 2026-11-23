@@ -20,17 +20,6 @@ Does horizontal-flip test-time augmentation improve SegEarth-OV's mIoU on LoveDA
 ## Current status
 The authors' demo has been run on a Tesla T4 and produced a single-image prediction. This is an initial inference pilot, **not** a completed LoveDA benchmark reproduction. Quantitative results will be added only after running the evaluation code.
 
-## Suggested repository structure
-```text
-.
-├── PROPOSAL.md
-├── README.md
-├── notebooks/
-│   └── SegEarth_OV_demo.ipynb
-├── src/
-├── results/
-└── requirements.txt
-```
 
 Record the Git commit, Python/PyTorch/CUDA versions, GPU model, dataset split, config, checkpoint source, and command for each experiment. Do not commit dataset archives, model weights, credentials, or large generated files.
 
